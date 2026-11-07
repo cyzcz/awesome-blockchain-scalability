@@ -100,3 +100,4 @@ A curated list of awesome resources about blockchain scalability.
 
 ## Stats
 - [L2Beat](https://l2beat.com/)
+- [Chain.Love](https://chain.love/) - Open-source directory and comparison tool for Layer 1 and Layer 2 RPC node providers, indexers, block explorers, bridges, and rollups ([GitHub](https://github.com/Chain-Love/chain-love))
